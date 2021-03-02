@@ -1,12 +1,7 @@
 {
-    "name": "jsnj",
-    "version": "1.0.0",
-    "description": "Chat bot.",
-    "main": "index.js",
-    "author": "dedepandziobak",
-    "dependencies": {
-        "alexa-bot-api": "^0.2.1",
-        "discord.js": "^12.5.1",
-        "node.js": "0.0.1-security"
-    }
+ "name": "ChatBOT",
+ "version": "1.0.0",
+ "description": "Bot na odcinek",
+ "main": "index.js",
+ "author": "dedepandziobak"
 }
