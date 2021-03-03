@@ -1,4 +1,3 @@
 # Discord-ChatBot.js
 
-
-wszytstko na moim kanale na youtubie juz nie dlugo
+Wszytsko dotyczace tego na moim kanale! https://www.youtube.com/watch?v=sVJEqJOJuGg
